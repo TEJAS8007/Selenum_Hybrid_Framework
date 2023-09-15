@@ -1,0 +1,8 @@
+Com\demo\utilities\CommonUtility.class
+Com\demo\pages\Register.class
+Com\demo\pages\Payment.class
+Com\demo\test\DemoWebTest.class
+Com\demo\pages\AdressDetails.class
+Com\demo\pages\AddtoCart.class
+Com\demo\utilities\ExtentReportManager.class
+Com\demo\pages\LoginPage.class

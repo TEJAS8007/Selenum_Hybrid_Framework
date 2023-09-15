@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64980" started-at="2023-09-15T15:09:46 IST" finished-at="2023-09-15T15:10:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64980" started-at="2023-09-15T15:09:46 IST" finished-at="2023-09-15T15:10:51 IST">
+      <class name="Com.demo.test.DemoWebTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="openBrowser" is-config="true" duration-ms="3717" started-at="2023-09-15T15:09:42 IST" finished-at="2023-09-15T15:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="getUrl(java.lang.String)[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="getUrl" is-config="true" duration-ms="4763" started-at="2023-09-15T15:09:46 IST" finished-at="2023-09-15T15:09:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://demowebshop.tricentis.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method status="PASS" signature="maxi()[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="maxi" is-config="true" duration-ms="909" started-at="2023-09-15T15:09:51 IST" finished-at="2023-09-15T15:09:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxi -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="getCookies" is-config="true" duration-ms="25" started-at="2023-09-15T15:09:52 IST" finished-at="2023-09-15T15:09:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="regClass()[pri:1, instance:Com.demo.test.DemoWebTest@262b2c86]" name="regClass" duration-ms="11707" started-at="2023-09-15T15:09:52 IST" finished-at="2023-09-15T15:10:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regClass -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="getCookies" is-config="true" duration-ms="20" started-at="2023-09-15T15:10:04 IST" finished-at="2023-09-15T15:10:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="LogClass()[pri:2, instance:Com.demo.test.DemoWebTest@262b2c86]" name="LogClass" duration-ms="10228" started-at="2023-09-15T15:10:04 IST" finished-at="2023-09-15T15:10:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogClass -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="getCookies" is-config="true" duration-ms="21" started-at="2023-09-15T15:10:14 IST" finished-at="2023-09-15T15:10:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="aadtcartclass()[pri:3, instance:Com.demo.test.DemoWebTest@262b2c86]" name="aadtcartclass" duration-ms="10348" started-at="2023-09-15T15:10:14 IST" finished-at="2023-09-15T15:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aadtcartclass -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="getCookies" is-config="true" duration-ms="8" started-at="2023-09-15T15:10:24 IST" finished-at="2023-09-15T15:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="AddressClass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:Com.demo.test.DemoWebTest@262b2c86]" name="AddressClass" duration-ms="12844" started-at="2023-09-15T15:10:24 IST" data-provider="getData" finished-at="2023-09-15T15:10:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tcs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[amravti]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pune]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[paratwada]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA["2015454"]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA["4562314"]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA["7458964"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddressClass -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:Com.demo.test.DemoWebTest@262b2c86]" name="getCookies" is-config="true" duration-ms="14" started-at="2023-09-15T15:10:37 IST" finished-at="2023-09-15T15:10:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="PaymentClass()[pri:5, instance:Com.demo.test.DemoWebTest@262b2c86]" name="PaymentClass" duration-ms="13908" started-at="2023-09-15T15:10:37 IST" finished-at="2023-09-15T15:10:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaymentClass -->
+      </class> <!-- Com.demo.test.DemoWebTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

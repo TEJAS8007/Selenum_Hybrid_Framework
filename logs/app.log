@@ -1,0 +1,118 @@
+[DEBUG] 2023-09-15 14:13:29.995 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 14:13:30.113 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:13:30.120 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 14:13:31.179 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:13:31.180 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 14:13:32.239 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:13:32.241 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 14:13:40.002 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:13:40.004 [main] DemoWebTest - Address Class
+[DEBUG] 2023-09-15 14:14:56.261 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 14:14:56.326 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:14:56.332 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 14:15:11.469 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 14:15:11.471 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 14:15:23.795 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 14:15:23.799 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 14:15:24.886 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 14:15:24.888 [main] DemoWebTest - Address Class
+[INFO ] 2023-09-15 14:15:25.943 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 14:15:25.944 [main] DemoWebTest - Payment Is In Progress
+[DEBUG] 2023-09-15 14:17:09.999 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 14:17:10.062 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:17:10.067 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 14:17:25.283 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 14:17:25.285 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 14:17:37.710 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:17:37.713 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 14:17:51.745 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:17:51.746 [main] DemoWebTest - Address Class
+[INFO ] 2023-09-15 14:18:04.529 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:18:04.530 [main] DemoWebTest - Payment Is In Progress
+[DEBUG] 2023-09-15 14:21:54.411 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 14:21:54.470 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:21:54.476 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 14:22:05.822 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 14:22:05.824 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 14:22:15.200 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:22:15.201 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 14:22:26.925 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:22:26.927 [main] DemoWebTest - Address Class
+[INFO ] 2023-09-15 14:22:39.904 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:22:39.905 [main] DemoWebTest - Payment Is In Progress
+[DEBUG] 2023-09-15 14:27:14.742 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 14:27:14.813 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:27:14.819 [main] DemoWebTest - Registration Class
+[DEBUG] 2023-09-15 14:56:19.360 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 14:56:19.417 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 14:56:19.422 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 14:56:30.196 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 14:56:30.197 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 14:56:37.596 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:56:37.597 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 14:56:47.413 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 14:56:47.415 [main] DemoWebTest - Payment Is In Progress
+[DEBUG] 2023-09-15 15:09:52.185 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 15:09:52.283 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 15:09:52.289 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 15:09:52.329 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:10:04.021 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 15:10:04.023 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 15:10:04.046 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:10:14.274 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:10:14.276 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 15:10:14.323 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:10:24.736 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:10:24.738 [main] DemoWebTest - Address Class
+[INFO ] 2023-09-15 15:10:24.753 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:10:37.598 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:10:37.599 [main] DemoWebTest - Payment Is In Progress
+[INFO ] 2023-09-15 15:10:37.620 [main] DemoWebTest - title Verified ..
+[DEBUG] 2023-09-15 15:19:50.965 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 15:19:51.027 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 15:19:51.031 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 15:19:51.074 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:20:01.559 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 15:20:01.559 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 15:20:01.577 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:20:08.455 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:20:08.455 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 15:20:08.497 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:20:19.695 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:20:19.696 [main] DemoWebTest - Address Class
+[INFO ] 2023-09-15 15:20:19.709 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:20:32.637 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:20:32.638 [main] DemoWebTest - Payment Is In Progress
+[INFO ] 2023-09-15 15:20:32.652 [main] DemoWebTest - title Verified ..
+[DEBUG] 2023-09-15 15:28:15.605 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 15:28:15.657 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 15:28:15.660 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 15:28:15.701 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:28:26.215 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 15:28:26.215 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 15:28:26.231 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:28:34.772 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:28:34.772 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 15:28:34.792 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:28:45.130 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:28:45.130 [main] DemoWebTest - Address Class
+[INFO ] 2023-09-15 15:28:45.144 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:28:57.956 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:28:57.956 [main] DemoWebTest - Payment Is In Progress
+[INFO ] 2023-09-15 15:28:57.972 [main] DemoWebTest - title Verified ..
+[DEBUG] 2023-09-15 15:31:15.859 [main] DemoWebTest - debugging ***********
+[INFO ] 2023-09-15 15:31:15.901 [main] DemoWebTest - 8
+[INFO ] 2023-09-15 15:31:15.917 [main] DemoWebTest - Registration Class
+[INFO ] 2023-09-15 15:31:15.961 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:31:26.360 [main] DemoWebTest - 10
+[INFO ] 2023-09-15 15:31:26.360 [main] DemoWebTest - Login Page
+[INFO ] 2023-09-15 15:31:26.376 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:31:33.598 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:31:33.599 [main] DemoWebTest - Add TO Cart Class
+[INFO ] 2023-09-15 15:31:33.629 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:31:43.485 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:31:43.485 [main] DemoWebTest - Address Class
+[INFO ] 2023-09-15 15:31:43.502 [main] DemoWebTest - title Verified ..
+[INFO ] 2023-09-15 15:31:56.111 [main] DemoWebTest - 11
+[INFO ] 2023-09-15 15:31:56.111 [main] DemoWebTest - Payment Is In Progress
+[INFO ] 2023-09-15 15:31:56.127 [main] DemoWebTest - title Verified ..
